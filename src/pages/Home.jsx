@@ -5,7 +5,7 @@ import EmailForm from "../components/EmailForm";
 
 const Home = () => {
   return (
-    <div className="w-full h-screen flex flex-col items-center overflow-x-hidden">
+    <div className="w-full h-screen flex flex-col items-center">
       <div className="flex flex-col justify-between mt-[40px] lg:mt-[256px] lg:gap-[71px] gap-[40px] lg:flex-row xl:flex-row">
         <div className="flex flex-col items-center lg:items-start">
           <img
